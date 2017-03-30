@@ -129,13 +129,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-
-#### Contributions & Bug Reporting ####
----
-tdscientist@gmail.com 
-
-
-
 #### Credits ####
 ---
 * [Picasso](https://github.com/square/picasso)
